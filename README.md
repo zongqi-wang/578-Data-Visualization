@@ -1,1 +1,1 @@
-# 578-Data-Visualization
+# CSE 578 Data Visualizations
